@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/indaniayush/hostme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can follow my demo contents on [GitHub](https://github.com/indaniayush) to catch a view on my opensource work. However, there's not much facinating and recognizable content available as of now. But certianly you should vist me closely on [Penaway](https://www.penaway.blogspot.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
